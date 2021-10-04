@@ -1,5 +1,5 @@
 {
-    "name": "edno/codeception-browsermob",
+    "name": "tjimmy/codeception-browsermob",
     "description": "Codeception extension providing BrowserMob Proxy capabilities",
     "keywords": ["codeception", "extension", "proxy", "browsermob", "har"],
     "homepage": "https://github.com/edno/codeception-browsermob",
